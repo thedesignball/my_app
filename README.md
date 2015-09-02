@@ -10,7 +10,7 @@ __*-Install atom v1.0.9*__
 __*-Create an account of github.com*__
 
 
-- Learn from 'codeschool' and a blog of Imtaekh [link](http://github.com/imtaekh)
+- Learn from [codeschool](https://www.codeschool.com/courses/git-real) and a blog of [Imtaekh](http://github.com/imtaekh)
 - Understand concept of git and command
 - Create app.js and app2.js (FizzBuzz)
 
