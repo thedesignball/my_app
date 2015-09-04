@@ -17,3 +17,10 @@ __*-Create an account of github.com*__
 ##Day2 02/09/15
 - Find an error and Solve it by command "git pull" to get differences from origin to master
 - Create a Static index.html file with CSS stylesheet
+
+##Day3 03/09/15
+- Create Thumbnails for static web pages of The Design Ball
+
+##Day4 04/09/15
+- Try and Fail to install MongoDB 
+
